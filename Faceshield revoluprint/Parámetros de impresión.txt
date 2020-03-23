@@ -1,0 +1,7 @@
+Nozzle: 0.4
+altura de capa: 0.3
+5 perimetros 
+relleno 20%
+Velocidad (ojo con estos valores se exige mucho la impresora)
+80mm/s relleno
+60mm/s perimetro
